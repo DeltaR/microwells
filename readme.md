@@ -1,4 +1,4 @@
-
+![Microwells Logo](https://github.com/DeltaR/microwells/blob/master/public/assets/img/logo-big.png?raw=true)
 
 ## About Microwells
 
